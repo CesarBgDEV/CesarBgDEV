@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Cesar Balderas
+- 👀 I’m interested in Fullstack Development with NodeJs, Flask, Django, React, Tailwind CSS
+- 🌱 I’m currently learning Project development, agile methodologies with SCRUM and good programming practices.
+- 💞️ I’m looking to collaborate on any consulting agency or startup
+- 📫 How to reach me: email: cesar.softwared@gmail.com || instagram: @_cesarbg_
